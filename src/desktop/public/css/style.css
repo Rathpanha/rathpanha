@@ -1,0 +1,19 @@
+*, *::after, *::before {
+  box-sizing:border-box
+}
+
+* {
+  font-family: 'Inconsolata', monospace;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  background: #F2F3F4;
+  color: #797D7F;
+}
+
+a {
+  color: #2E86C1;
+  text-decoration: none;
+}

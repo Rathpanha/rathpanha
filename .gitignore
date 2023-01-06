@@ -1,0 +1,13 @@
+nbproject
+
+composer.phar
+/vendor/
+/src/desktop/public/images/favicons/
+composer.lock
+
+nodejs/node_modules/
+/nodejs/nohup.out
+/.env.php
+/.vscode
+/node_modules
+/package-lock.json
